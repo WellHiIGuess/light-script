@@ -1,0 +1,4 @@
+func test(x, y) {
+    println(x + 1);
+    println(y + 1);
+}
