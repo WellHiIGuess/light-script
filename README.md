@@ -1,2 +1,5 @@
-# light-script
-a scripting language where functions don't need all of there params to be filled out.
+# pheonix-script
+
+yes that's how it is spelled
+
+a scripting language that compiles into rust.
